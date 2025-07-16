@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cabin.city.ico",
     "slug": "cabin-city",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 361,
+    "uptime": "99.99%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 362,
     "timeDay": 352,
     "timeWeek": 329,
     "timeMonth": 294,
-    "timeYear": 361,
-    "dailyMinutesDown": {}
+    "timeYear": 362,
+    "dailyMinutesDown": {
+      "2025-07-16": 27
+    }
   }
 ]
