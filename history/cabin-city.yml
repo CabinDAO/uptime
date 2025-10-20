@@ -1,7 +1,7 @@
 url: https://cabin.city
-status: up
-code: 200
-responseTime: 407
-lastUpdated: 2025-10-19T23:19:55.784Z
+status: down
+code: 500
+responseTime: 14531
+lastUpdated: 2025-10-20T07:40:29.086Z
 startTime: 2024-09-09T21:07:19.752Z
 generator: Upptime <https://github.com/upptime/upptime>
